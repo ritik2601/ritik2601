@@ -5,7 +5,7 @@
 
 
 
-     can we use paytm gateway for free in our js project
+
 
 
 
