@@ -5,7 +5,6 @@
 
 
 
-ritik2601/ritik2601 is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 
 
 
